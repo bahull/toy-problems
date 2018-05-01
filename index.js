@@ -1,0 +1,2 @@
+// inAscOrder
+function inAscOrder() {}
